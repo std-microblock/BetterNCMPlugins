@@ -4,7 +4,6 @@ body{
 }
 
 
-
 *{
     transition: all 0.2s;
     scroll-behavior: smooth;
@@ -16,10 +15,10 @@ body{
 }
 
 
-.z-tab-scroll,.g-mn{
-    background:  rgba(255, 255, 255, 0.877) !important;
-
+.z-tab-scroll,.g-mn,.n-set{
+    background:  rgba(255, 255, 255, 0.589) !important;
 }
+
 
 /* 滚动槽 */
 ::-webkit-scrollbar {
@@ -39,7 +38,7 @@ header{
 }
 
 .bar{
-    left:20px !important;
+    left:10px !important;
     bottom: 10px !important;
     
 }
@@ -57,8 +56,35 @@ header{
     border-radius:0px 0px 5px 5px;
 }
 
+body:not(.s-theme-white) .g-mn{
+    background:rgba(0, 0, 0, 0.466) !important;
+}
+.nav .firstlist>*:nth-child(2){
+    display: none;
+}
+.nav .firstlist>*:nth-child(3){
+    display: none;
+}
 
-.g-mn{
+.nav .firstlist>*:nth-child(4){
+    display: none;
+}
+
+.nav .firstlist>*:nth-child(5){
+    display: none;
+}
+
+.nav .firstlist>*:nth-child(6){
+    display: none;
+}
+
+
+
+body.s-theme-white .nav svg{
+    -webkit-filter: invert(100%) sepia(0%) saturate(7486%) hue-rotate(144deg) brightness(99%) contrast(104%);
+}
+
+.g-mn.one{
     /* padding: 4px; */
     -webkit-transform: translateY(-5px);
     margin:10px;
@@ -69,12 +95,25 @@ header{
 }
 
 
+.fx.j-flag.fsection{
+    /* background: rgba(255, 122, 177, 0.438); */
+}
 
 .j-flag{
     background: unset;
 }
 
-.nav>*>*:hover{
-    -webkit-transform: scale(1.03);
+.nav li{
+    margin: 5px;
+    border-radius: 5px;
 }
 
+.nav li:hover{
+    background: rgba(0, 0, 0, 0.267);
+    -webkit-transform: scale(1.01);
+}
+
+/* Remove ADs */
+.livewrap,.voicelive,.m-list-recmd-live,.m-banner,.heartbeat,.icn-live-sm,.u-icn-novip{
+    display: none !important;
+}
