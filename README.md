@@ -33,6 +33,7 @@ BetterNCM的官方插件库
 1. 在网易云内点击设置，滑到最下面，点击编辑CSS设置
 2. 将主题下的`enabled`值改为true
 
-| 主题名 | 作者 |
-| -- | -- |
-| [Microrange](https://github.com/MicroCBer/BetterNCMPlugins/tree/main/Stylesheets/Theme-Microrange) | MicroBlock |
+| 主题名 | 作者 | 预览图 |
+| -- | -- | -- |
+| [Microrange](https://github.com/MicroCBer/BetterNCMPlugins/tree/main/Stylesheets/Theme-Microrange) | MicroBlock | ![](https://github.com/MicroCBer/BetterNCMPlugins/raw/main/Stylesheets/Theme-Microrange/black.png) |
+| [Unbounded](https://github.com/MicroCBer/BetterNCMPlugins/tree/main/Stylesheets/Theme-Unbounded) | MicroBlock | ![](https://github.com/MicroCBer/BetterNCMPlugins/raw/main/Stylesheets/Theme-Unbounded/main.png) |
