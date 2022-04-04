@@ -1,2 +1,38 @@
 # BetterNCMPlugins
 BetterNCM的官方插件库
+
+# 主题
+## 安装方式
+1. 将主题文件夹下的内容全部放入`C:\Users\{你的用户名}\betterncm\stylesheets`
+2. 在网易云内点击设置，滑倒最下面，点击编辑CSS设置，追加对应主题的Stylesheet JSON
+
+如安装`Microrange`主题：
+```json
+[
+    {
+        "file":"block.css",
+        "enabled":true
+    }
+]
+```
+修改为
+```json
+[
+    {
+        "file":"block.css",
+        "enabled":true
+    }
+    ,{
+    "name":"Microrange White",
+    "file":"microrange.css",
+    "enabled":false
+    } 
+]
+```
+## 启用主题
+1. 在网易云内点击设置，滑到最下面，点击编辑CSS设置
+2. 将主题下的`enabled`值改为true
+
+| 主题名 | 作者 |
+| -- | -- |
+| [Microrange](https://github.com/MicroCBer/BetterNCMPlugins/tree/main/Stylesheets/Theme-Microrange) | MicroBlock |
