@@ -7,19 +7,9 @@
 ## 安装
 在网易云内点击设置，滑到最下面，点击打开配置文件夹，将`microrange.css`，`microrange-black.css`放入stylesheets文件夹
 #### Stylesheet JSON
-黑色版（配合“酷炫黑”主题使用）
 ```json
 ,{
-    "name":"Microrange Black",
-    "file":"microrange-black.css",
-    "enabled":false
-}
-```
-
-白色版
-```json
-,{
-    "name":"Microrange White",
+    "name":"Microrange Black&White",
     "file":"microrange.css",
     "enabled":false
 }
