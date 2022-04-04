@@ -5,7 +5,7 @@
 ![Black](black.png)
 ![White](white.png)
 ## 安装
-将`microrange.css`，`microrange-black.css`放入`C:\Users\{你的用户名}\betterncm\stylesheets`下
+在网易云内点击设置，滑到最下面，点击打开配置文件夹，将`microrange.css`，`microrange-black.css`放入stylesheets文件夹
 #### Stylesheet JSON
 黑色版（配合“酷炫黑”主题使用）
 ```json
