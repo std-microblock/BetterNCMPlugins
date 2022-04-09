@@ -10,7 +10,7 @@
     scroll-behavior: smooth;
 }
 
-.m-nav * {
+.m-nav *{
     color: white !important;
     text-shadow: 1px 1px 4px #00000077;
 }
@@ -126,7 +126,10 @@ body:not(.s-theme-white) .g-mn {
     
 }
 
-
+header::after{
+    background: none !important;
+    border: none !important;
+}
 
 
 .g-mn.one {
