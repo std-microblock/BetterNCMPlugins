@@ -37,6 +37,6 @@ BetterNCM的官方插件库
 
 | 主题名 | 作者 | 预览图 |
 | -- | -- | -- |
-| [Microrange](https://github.com/MicroCBer/BetterNCMPlugins/tree/main/Stylesheets/Theme-Microrange) | MicroBlock | ![](https://github.com/MicroCBer/BetterNCMPlugins/raw/main/Stylesheets/Theme-Microrange/black.png) |
-| [Unbounded](https://github.com/MicroCBer/BetterNCMPlugins/tree/main/Stylesheets/Theme-Unbounded) | MicroBlock | ![](https://github.com/MicroCBer/BetterNCMPlugins/raw/main/Stylesheets/Theme-Unbounded/main.png) |
-| [Unbounded-Unblur](https://github.com/MicroCBer/BetterNCMPlugins/tree/main/Stylesheets/Theme-Unbounded-Unblur) | Skykey | ![](https://github.com/MicroCBer/BetterNCMPlugins/raw/main/Stylesheets/Theme-Unbounded-Unblur/main.png) |
+| [Microrange](https://github.com/MicroCBer/BetterNCMPlugins/tree/main/Stylesheets/Theme-Microrange) | MicroBlock | ![](Stylesheets/Theme-Microrange/black.png) |
+| [Unbounded](https://github.com/MicroCBer/BetterNCMPlugins/tree/main/Stylesheets/Theme-Unbounded) | MicroBlock | ![](Stylesheets/Theme-Unbounded/main.png) |
+| [Unbounded-Unblur](https://github.com/MicroCBer/BetterNCMPlugins/tree/main/Stylesheets/Theme-Unbounded-Unblur) | Skykey | <img src="Stylesheets/Theme-Unbounded-Unblur/main.png" style="zoom:83%;" /> |
