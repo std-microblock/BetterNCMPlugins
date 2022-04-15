@@ -37,5 +37,6 @@ BetterNCM的官方插件库
 
 | 主题名 | 作者 | 预览图 |
 | -- | -- | -- |
-| [Microrange](https://github.com/MicroCBer/BetterNCMPlugins/tree/main/Stylesheets/Theme-Microrange) | MicroBlock | ![](https://github.com/MicroCBer/BetterNCMPlugins/raw/main/Stylesheets/Theme-Microrange/black.png) |
-| [Unbounded](https://github.com/MicroCBer/BetterNCMPlugins/tree/main/Stylesheets/Theme-Unbounded) | MicroBlock | ![](https://github.com/MicroCBer/BetterNCMPlugins/raw/main/Stylesheets/Theme-Unbounded/main.png) |
+| [Microrange](Stylesheets/Theme-Microrange) | [MicroBlock](https://github.com/MicroCBer) | ![](Stylesheets/Theme-Microrange/black.png) |
+| [Unbounded](Stylesheets/Theme-Unbounded) | [MicroBlock](https://github.com/MicroCBer) | ![](Stylesheets/Theme-Unbounded/main.png) |
+| [Unbounded-Unblur](Stylesheets/Theme-Unbounded-Unblur) | [Skykey](https://github.com/skykeyjoker) | <img src="Stylesheets/Theme-Unbounded-Unblur/main.png" style="zoom:83%;" /> |
