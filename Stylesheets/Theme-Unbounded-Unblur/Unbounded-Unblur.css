@@ -187,6 +187,3 @@ header::after{
     display: none;
 }
 
-.nav .firstlist>*:nth-child(6) {
-    display: none;
-}
