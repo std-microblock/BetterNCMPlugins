@@ -207,7 +207,3 @@ body:not(.s-theme-white) .g-mn {
 .nav .firstlist>*:nth-child(5) {
     display: none;
 }
-
-.nav .firstlist>*:nth-child(6) {
-    display: none;
-}
